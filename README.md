@@ -10,7 +10,7 @@
 	       &emsp;      -github.com/jinzhu/gorm <br />
 	       &emsp;      -github.com/jinzhu/gorm/dialects/postgres <br />
 
-	*** <b> the assignment is partially done and work is still in progress </b> *** <br />
+ <b>--- the assignment is partially done and work is still in progress. --</b>  <br />
 
 <b> there are two table , one is of Users table and another one is AudioFile.</b> <br />
 
