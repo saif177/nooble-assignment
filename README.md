@@ -1,4 +1,6 @@
+<center>
 # nooble-assignment
+
 
 technology stack -  <br />
   database - Postgresql <br />
@@ -17,3 +19,9 @@ there are total 4 routes  <br />
   (get)- get invidual audio basad on id. <br />
   (post)- upload new audio.  <br />
   (delete)- delete invidual audio based on id.  <br />
+
+
+<h2>  planned designed process </h2> <br />
+
+</center> 
+
