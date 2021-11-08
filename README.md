@@ -2,20 +2,20 @@
 # nooble-assignment
 
 
-technology stack -  <br />
+<h3> technology stack -  </h3> <br />
   database - Postgresql <br />
   langauge - Golang <br />
   additional - 3rd parties git libraries <br />
-              &emsp; -github.com/gorilla/mux <br />
+              &emsp; 	   -github.com/gorilla/mux <br />
 	       &emsp;      -github.com/jinzhu/gorm <br />
 	       &emsp;      -github.com/jinzhu/gorm/dialects/postgres <br />
 
-the assignment is partially done and work is still in progress <br />
+	*** <b> the assignment is partially done and work is still in progress </b> *** <br />
 
-there are two table , one is of Users table and another one is AudioFile. <br />
+<b> there are two table , one is of Users table and another one is AudioFile.</b> <br />
 
-there are total 4 routes  <br />
-	&emsp;<b>(get) </b> - get all audio list.  <br />
+	<h3> there are total 4 routes </h3> <br />
+	&emsp; <b>(get) </b> - get all audio list.  <br />
 	&emsp; <b>(get) </b> - get invidual audio basad on id. <br />
 	&emsp; <b>(post) </b> - upload new audio.  <br />
         &emsp; <b> (delete) </b>- delete invidual audio based on id.  <br />
