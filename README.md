@@ -1,11 +1,11 @@
 # nooble-assignment
 
-technology stack - 
-  database - Postgresql 
-  langauge - Golang
-  additional - 3rd parties git libraries
-               -github.com/gorilla/mux
-	             -github.com/jinzhu/gorm
+technology stack -  <br />
+  database - Postgresql <br />
+  langauge - Golang <br />
+  additional - 3rd parties git libraries <br />
+               -github.com/gorilla/mux <br />
+	             -github.com/jinzhu/gorm <br />
 	             -github.com/jinzhu/gorm/dialects/postgres
 
 the assignment is partially done and work is still in progress 
