@@ -6,11 +6,12 @@
   database - Postgresql <br />
   langauge - Golang <br />
   additional - 3rd parties git libraries <br />
-              &emsp; 	   -github.com/gorilla/mux <br />
+               &emsp; 	   -github.com/gorilla/mux <br />
 	       &emsp;      -github.com/jinzhu/gorm <br />
 	       &emsp;      -github.com/jinzhu/gorm/dialects/postgres <br />
-
- <b>--- the assignment is partially done and work is still in progress. --</b>  <br />
+<br />
+<br />	
+	<h2> <i> the assignment is partially done and work is still in progress. </i></h2><br />
 
 <b> there are two table , one is of Users table and another one is AudioFile.</b> <br />
 
