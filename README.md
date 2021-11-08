@@ -10,12 +10,11 @@
 	       &emsp;      -github.com/jinzhu/gorm <br />
 	       &emsp;      -github.com/jinzhu/gorm/dialects/postgres <br />
 <br />
-<br />	
 	<h2> <i> the assignment is partially done and work is still in progress. </i></h2><br />
 
-<b> there are two table , one is of Users table and another one is AudioFile.</b> <br />
-
-	<h3> there are total 4 routes </h3> <br />
+<b> there are two table , one is of Users table and another one is AudioFile.</b>
+	<br />
+	there are total 4 routes  <br />
 	&emsp; <b>(get) </b> - get all audio list.  <br />
 	&emsp; <b>(get) </b> - get invidual audio basad on id. <br />
 	&emsp; <b>(post) </b> - upload new audio.  <br />
